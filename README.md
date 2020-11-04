@@ -2,6 +2,8 @@
 Python ML project
 # HR Attrition Machine Learning Solution
 
+# HR Attrition Machine Learning Solution
+
 ![enter image description here](https://github.com/naga6674/Hr-employee-attriion/blob/main/Attrtion%5B1%5D.png?raw=true)
 
 
@@ -13,3 +15,10 @@ This project created as part of learning github and learn things and assignment 
 
 Details about the project, what did you do, how did you do and any other relevant info that would be necessary for evaluators to judge your work.
 In this the outcome is a classification where we judge whether employee will quit or not
+
+ - 
+ -  
+ - asasa
+
+List item
+
